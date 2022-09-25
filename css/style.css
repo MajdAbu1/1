@@ -1,0 +1,42 @@
+/************************************tag selector**************************************/
+Body {
+    background-color: #FFF5E4
+}
+
+h3 {
+    color: #000000;
+    text-align: left;
+}
+
+HR {
+    background-color: #FFF5E4;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #e96c07;
+    width: 20%;
+    border-width: 10px;
+}
+
+img {
+    height: 150px;
+    color: #FFF5E4
+}
+
+/************************************class selector***********(التنين نفس المهمة)*******/
+.circular {
+    border-radius: 50%;
+}
+
+.face {
+    height: 30px;
+}
+
+.sizw {
+    height: 30px;
+    background-color: #FFF5E4;
+}
+
+.pica {
+    background-color: black;
+
+}
